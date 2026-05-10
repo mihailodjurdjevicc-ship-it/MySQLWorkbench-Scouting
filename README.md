@@ -78,4 +78,4 @@ Ove veze su realizovane preko **asocijativnih tabela** (tabela koje spajaju dva 
 2.  **Praćenje razvoja:** Kroz asocijativne tabele sa datumima, možete generisati grafikone napretka igrača kroz sezone.
 3.  **Finansijsko planiranje:** Povezanost ugovora i izveštaja omogućava upravi da vidi da li je cena igrača na tržištu opravdana njegovim skauting ocenama.
 
-**Autor:** Mihailo Đurđević IT6/24
+**Autor:** Mihailo Đurđević
